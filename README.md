@@ -1,6 +1,5 @@
-# Braille-Translator
+# Braille Translator
 
-## Braille Translator
 In this coding challenge I created a terminal / command-line application that can translate Braille to English and vice versa. 
 
 The string to translate is passed into the application as an argument at runtime. The application is smart enough to determine if the string given to it is either Braille or English and automatically converts it to the appropriate opposite. 
